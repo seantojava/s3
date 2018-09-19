@@ -1,0 +1,11 @@
+s3\satelite\mapper\TbItemParamMapper.class
+s3\satelite\mapper\TbContentMapper.class
+s3\satelite\mapper\TbContentCategoryMapper.class
+s3\satelite\mapper\TbItemParamItemMapper.class
+s3\satelite\mapper\TbOrderMapper.class
+s3\satelite\mapper\TbItemMapper.class
+s3\satelite\mapper\TbOrderItemMapper.class
+s3\satelite\mapper\TbOrderShippingMapper.class
+s3\satelite\mapper\TbUserMapper.class
+s3\satelite\mapper\TbItemDescMapper.class
+s3\satelite\mapper\TbItemCatMapper.class

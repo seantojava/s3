@@ -1,0 +1,4 @@
+s3\satelite\search\dao\SearchDao.class
+s3\satelite\search\service\impl\SearchItemServiceImpl.class
+s3\satelite\search\service\impl\SearchServiceImpl.class
+s3\satelite\search\mapper\ItemMapper.class
